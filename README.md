@@ -15,7 +15,7 @@ File .md is stored in Github and it can display web link, path, image in repo or
 2. Syntax of file Markdown
     - This is the guide of  [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - Focus on: heading, add code, link and image
-    - This file is also an example to
+    - This README.md is also an example
 
 
 
