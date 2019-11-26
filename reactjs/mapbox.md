@@ -56,8 +56,5 @@
 		
 -------------------------------------------
 # 4. Example
-- to use MapGL > npm install react-map-gl
-- to search for a user’s location > npm install react-map-gl-geocoder
-- deck-gl, a visualization framework from Uber, to add an overlay marking 
-	the area we have searched on our map for greater readability
-	- *npm install deck.gl*
+- [Doc API](https://github.com/alex3165/react-mapbox-gl/blob/master/docs/API.md)
+- [Demo](https://github.com/alex3165/react-mapbox-gl/blob/master/example/src/demos/allShapes.tsx)
