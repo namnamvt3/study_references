@@ -1,5 +1,5 @@
 
-#1. What is mapbox?
+# 1. What is mapbox?
 - **Mapbox** is a live location platform that allows developers to create interactive and intuitive map interfaces for a variety of applications
 - **Mapbox GL JS** is a JavaScript library uses *WebGL* to render interactive maps from *vector tiles* and *Mapbox styles*
 - **WebGL** is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins
@@ -8,10 +8,10 @@
 	
 - **react-map-gl** which provides React integration for mapbox-gl as well as an easy-to-use component library to build on
 
-#2. What is MapBox's function?
+# 2. What is MapBox's function?
 - For interactive, customizable vector maps on the web.
 - Provides building blocks to add location features like maps, search, and navigation
-#3. Structure
+# 3. Structure
 
 - **Installation**
 	npm install --save react-map-gl
