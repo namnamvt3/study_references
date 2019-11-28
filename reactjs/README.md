@@ -11,11 +11,15 @@
 - #### [When use commna vs semi-colon](/reactjs/comma_semicolon.md)
 
 ---------------------------------------
-## [React Router basic](https://reactgo.com/reactrouter/introduction/)
+## [React Router overview](https://reactgo.com/reactrouter/introduction/)
 - #### [React Router 2](https://blog.logrocket.com/react-router-dom-set-up-essential-components-parameterized-routes-505dc93642f1/)
 
 ------------------------------------
-## [React Redux hooks](https://reactgo.com/react-redux-hooks/)
+## [Redux overview](https://reactgo.com/react-redux-beginners-tutorial/)
+
+#### [React Redux hooks](https://reactgo.com/react-redux-hooks/)
+[workflow image 1](/reactjs/images/redux.png)
+[workflow image 2](reactjs/images/redux2.png)
 
 ----------------------------
 
